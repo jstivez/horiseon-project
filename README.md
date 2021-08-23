@@ -1,1 +1,1 @@
-# horiseon-project
+I cleaned up the css and html
